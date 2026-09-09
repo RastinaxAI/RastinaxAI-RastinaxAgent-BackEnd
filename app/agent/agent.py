@@ -4,7 +4,7 @@ import json
 from pathlib import Path
 from openai import OpenAI, OpenAIError
 from dotenv import load_dotenv
-
+#asdilfhsd;ufg
 sys.path.append(str(Path(__file__).resolve().parent.parent.parent))
 from app.agent.tools import tools_schema, available_tools
 
